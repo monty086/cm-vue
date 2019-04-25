@@ -1,2 +1,2 @@
-# cm-vue
-this is a repository of cm-vue 
+# iview
+[cm-vue-cli]：iview 模板
