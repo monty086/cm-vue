@@ -1,2 +1,2 @@
-# iview
-[cm-vue-cli]：iview 模板
+# vue
+[cm-vue-cli] vue 模板
